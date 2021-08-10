@@ -1,6 +1,6 @@
 # Nerd Fonts patched
 
-Patched fonts from https://github.com/ryanoasis/nerd-fonts
+Patched fonts from `https://github.com/ryanoasis/nerd-fonts`.
 
 ## Installation
 
